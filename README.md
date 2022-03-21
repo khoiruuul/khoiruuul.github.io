@@ -8,4 +8,4 @@ Link GitHub
 https://github.com/khoiruuul/khoiruuul.github.io
 
 Link Git Pages 
-khoiruuul.github.io
+https://khoiruuul.github.io/
